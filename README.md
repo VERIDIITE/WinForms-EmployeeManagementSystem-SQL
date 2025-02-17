@@ -4,8 +4,6 @@
 
 Welcome to the **WinForms-EmployeeManagementSystem-SQL** repository! 🚀 This project demonstrates how to create a **C# Windows Forms application** for managing employees with **SQL database integration**.
 
-![Alt text](4.png)
-
 ---
 
 ## **📂 Folder Structure**  
@@ -53,6 +51,12 @@ cd WinForms-EmployeeManagementSystem-SQL
 ### **3️⃣ Run the Application**  
 - Open the project in **Visual Studio**.  
 - Build and run the application.  
+
+---
+
+## **📷 Screenshots**  
+
+![Alt text](4.png)
 
 ---
 
