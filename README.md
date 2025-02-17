@@ -1,6 +1,10 @@
+![Alt text](3.png)
+
 # **WinForms Employee Management System with SQL Database**
 
 Welcome to the **WinForms-EmployeeManagementSystem-SQL** repository! 🚀 This project demonstrates how to create a **C# Windows Forms application** for managing employees with **SQL database integration**.
+
+![Alt text](4.png)
 
 ---
 
