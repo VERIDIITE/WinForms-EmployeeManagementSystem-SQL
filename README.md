@@ -1,21 +1,16 @@
-![Alt text](1.png)
+# **WinForms Employee Management System with SQL Database**
 
-# **WinForms Login & Registration with SQL Database**
-
-Welcome to the **WinForms-LoginReg-SQL** repository! 🚀 This project demonstrates how to create a **C# Windows Forms application** with **user authentication** using an **SQL database**.
+Welcome to the **WinForms-EmployeeManagementSystem-SQL** repository! 🚀 This project demonstrates how to create a **C# Windows Forms application** for managing employees with **SQL database integration**.
 
 ---
-
-![Alt text](2.png)
 
 ## **📂 Folder Structure**  
 
 ```
-WinForms-LoginReg-SQL/
-├── LoginForm/            # Windows Forms login UI
-├── RegistrationForm/      # User registration UI
-├── Database/             # SQL scripts and database setup
-├── README.md             # Project documentation
+WinForms-EmployeeManagementSystem-SQL/
+├── EmployeeManagementForm/  # Main WinForms UI for managing employees
+├── Database/                # SQL scripts for employee database
+├── README.md                # Project documentation
 ```
 
 ---
@@ -26,8 +21,6 @@ WinForms-LoginReg-SQL/
 ✔ **SQL Integration** – Uses SQL Server for database storage.  
 ✔ **WinForms UI** – User-friendly interface for easy navigation.  
 ✔ **Search & Filter** – Find employees quickly.  
-✔ **Data Validation** – Prevent invalid data entry.  
-
 
 ---
 
@@ -45,9 +38,19 @@ WinForms-LoginReg-SQL/
 ### **1️⃣ Clone the Repository**  
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/WinForms-LoginReg-SQL.git
-cd WinForms-LoginReg-SQL
+git clone https://github.com/YOUR_USERNAME/WinForms-EmployeeManagementSystem-SQL.git
+cd WinForms-EmployeeManagementSystem-SQL
 ```
+
+### **2️⃣ Setup the Database**  
+- Run the SQL script from the `Database/` folder in SQL Server.  
+- Update the **connection string** in `App.config`.  
+
+### **3️⃣ Run the Application**  
+- Open the project in **Visual Studio**.  
+- Build and run the application.  
+
+---
 
 ## **👨‍💻 Author**  
 
@@ -55,4 +58,8 @@ cd WinForms-LoginReg-SQL
 💼 **Software Engineer**  
 📎 [LinkedIn Profile](#)  
 
-Feel free to connect with me for collaboration or feedback! 
+Feel free to connect with me for collaboration or feedback!  
+
+---
+
+### 🚀 Happy Coding!  
